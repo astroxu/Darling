@@ -14,7 +14,7 @@ setTimeout(()=>window.location=e.target.href,500);
 /* password */
 function checkPassword(){
 let pass=document.getElementById("pass").value;
-if(pass==="khadidja") window.location="home.html";
+if(pass==="24072022") window.location="home.html";
 else document.getElementById("error").innerText="Wrong password";
 }
 
